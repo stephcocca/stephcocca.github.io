@@ -1,0 +1,6 @@
+(function(){var loadHandler=window['sl_{182B2E8D-0A1C-4C99-9094-C955BD6DAF50}'];loadHandler&&loadHandler(37, '<div id="spr0_6cf9c7c9"><div id="spr1_6cf9c7c9" class="kern slide"><img id="img2_6cf9c7c9" src="data/img18.jpg" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_6cf9c7c9" class="kern slide"><div id="spr3_6cf9c7c9" style="left:7px;top:10px;"><img id="img0_6cf9c7c9" src="data/img156.png" width="682" height="71" alt="Transport proteins can facilitate diffusion across membranes (for molecules that need help!)"/></div><div id="spr4_6cf9c7c9" style="left:36px;top:113px;"><img id="img1_6cf9c7c9" src="data/img157.png" width="648" height="333" alt=" Hydrophobic substances easily diffuse across a cell membrane.\
+ Large polar (hydrophilic) molecules and ions do not easily cross cell membranes! \
+They move across membranes with the help of specific transport proteins in a process called facilitated diffusion\
+does not require energy (ATP)\
+relies on their concentration gradient \
+another form of passive transport!"/></div></div></div>');})();

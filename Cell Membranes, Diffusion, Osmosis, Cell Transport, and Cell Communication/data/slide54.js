@@ -1,0 +1,6 @@
+(function(){var loadHandler=window['sl_{182B2E8D-0A1C-4C99-9094-C955BD6DAF50}'];loadHandler&&loadHandler(53, '<div id="spr0_6cfd3029"><div id="spr1_6cfd3029" class="kern slide"><img id="img2_6cfd3029" src="data/img18.jpg" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_6cfd3029" class="kern slide"><div id="spr3_6cfd3029" style="left:8px;top:10px;"><img id="img0_6cfd3029" src="data/img205.png" width="600" height="65" alt="Exocytosis and endocytosis transport large molecules across membranes"/></div><div id="spr4_6cfd3029" style="left:31px;top:93px;"><img id="img1_6cfd3029" src="data/img206.png" width="649" height="394" alt="A cell uses two mechanisms to move lots of large molecules across membranes (bulk transport):\
+Exocytosis is used to export large molecules, 	such as proteins or polysaccharides.\
+Endocytosis is used to take in large molecules, including food, nutrients, and even other cells.\
+\
+In both cases, the material being transported has to be packaged within a vesicle that fuses with the membrane.\
+"/></div></div></div>');})();
